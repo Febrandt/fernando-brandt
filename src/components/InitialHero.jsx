@@ -6,7 +6,7 @@ function InitialHero() {
                 <em className='text-2xl tracking-[0.09rem]'>Programador de Sistemas e Websites</em>
             </div>
             <div className='flex justify-center flex-1/3' >
-                <img src='/src/assets/profile.webp' className='w-[40vw] sm:w-[15rem] rounded-full'></img>
+                <img src='/assets/profile.webp' className='w-[40vw] sm:w-[15rem] rounded-full'></img>
             </div>
         </div>
     </>

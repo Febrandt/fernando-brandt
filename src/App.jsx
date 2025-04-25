@@ -18,7 +18,7 @@ function App() {
       <div className='bg-light mx-10 sm:mx-20 p-10 rounded-lg shadow-lg mt-10 flex flex-col'>
         <em className='text-2xl tracking-[0.09rem] text-center'>Formação</em>
         <div className='flex flex-row gap-5 mt-5'>
-          <img src="/src/assets/senai.png" className='w-20 h-20 rounded-full'></img>
+          <img src="/assets/senai.png" className='w-20 h-20 rounded-full'></img>
           <div className='flex flex-col'>
             <em>Curso técnico em desenvolvimento de sistemas</em>
 
