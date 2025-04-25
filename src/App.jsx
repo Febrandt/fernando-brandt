@@ -23,7 +23,7 @@ function App() {
             <em>Curso técnico em desenvolvimento de sistemas</em>
 
             <p className='mt-2'>
-              Conhecimentos sólidos em programação, banco de dados, e desenvolvimento de aplicações web.
+              Conhecimentos sólidos em programação, banco de dados e desenvolvimento de aplicações web.
             </p>
           </div>
         </div>
@@ -33,7 +33,7 @@ function App() {
             <em>Bacharelado em Sistemas da Informação - Cursando</em>
 
             <p className='mt-2'>
-              Desenvolvimento de software, gestão de projetos de TI e a administração de sistemas e redes.
+              Desenvolvimento de software, gestão de projetos de TI e administração de sistemas e redes.
             </p>
           </div>
         </div>
@@ -41,10 +41,10 @@ function App() {
       <div className='bg-light mx-10 sm:mx-20 p-10 rounded-lg shadow-lg mt-10 text-center'>
         <em className='text-2xl tracking-[0.09rem] text-center'>Serviços</em>
         <ul className='list-disc ml-5 mt-4 text-left'>
-          <li style={{ fontWeight: 600, lineHeight: 1, marginBottom: 10 }}>Sistemas de gestão sob medida: clientes, estoque, chamados, etc.</li>
-          <li style={{ fontWeight: 600, lineHeight: 1, marginBottom: 10 }}>Sites responsivos e otimizados para Google</li>
-          <li style={{ fontWeight: 600, lineHeight: 1, marginBottom: 10 }}>Integração entre plataformas: pagamentos, notas fiscais, entre outros.</li>
-          <li style={{ fontWeight: 600, lineHeight: 1, marginBottom: 10 }}>Painéis administrativos.</li>
+          <li style={{ fontWeight: 500, lineHeight: 1, marginBottom: 10 }}>Sistemas de gestão sob medida: clientes, estoque, chamados, etc;</li>
+          <li style={{ fontWeight: 500, lineHeight: 1, marginBottom: 10 }}>Sites responsivos e otimizados para o Google;</li>
+          <li style={{ fontWeight: 500, lineHeight: 1, marginBottom: 10 }}>Integração entre plataformas: pagamentos, notas fiscais, entre outros; e</li>
+          <li style={{ fontWeight: 500, lineHeight: 1, marginBottom: 10 }}>Painéis administrativos.</li>
         </ul>
       </div>
       <footer className='bg-dark text-light p-5 shadow-lg mt-10 text-center'>
