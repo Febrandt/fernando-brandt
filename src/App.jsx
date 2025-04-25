@@ -12,7 +12,7 @@ function App() {
       <div className='bg-light mx-10 sm:mx-20 p-10 rounded-lg shadow-lg mt-10 text-center'>
         <em className='text-2xl tracking-[0.09rem] text-center'>Brief</em>
         <p className='mt-2 text-justify'>
-          Sou desenvolvedor especializado em criação de sistemas web sob medida e websites modernos. Faço desde a lógica de sistemas robustos até a interface que o usuário vê e interage. Meu foco é entregar soluções que funcionam de verdade — rápidas, seguras e com visual profissional.
+          Desenvolvedor especializado em criação de sistemas web sob medida e websites modernos. Criação desde a lógica de sistemas robustos até a interface que o usuário vê e interage. Com foco em entregar soluções que funcionam de forma rápida, segura e com visual profissional.
         </p>
       </div>
       <div className='bg-light mx-10 sm:mx-20 p-10 rounded-lg shadow-lg mt-10 flex flex-col'>
@@ -23,7 +23,17 @@ function App() {
             <em>Curso técnico em desenvolvimento de sistemas</em>
 
             <p className='mt-2'>
-              Adquiri conhecimentos sólidos em programação, banco de dados, e desenvolvimento de aplicações web.
+              Conhecimentos sólidos em programação, banco de dados, e desenvolvimento de aplicações web.
+            </p>
+          </div>
+        </div>
+        <div className='flex flex-row gap-5 mt-5'>
+          <img src="/assets/uninter.jpg" className='w-20 h-20 rounded-full'></img>
+          <div className='flex flex-col'>
+            <em>Bacharelado em Sistemas da Informação - Cursando</em>
+
+            <p className='mt-2'>
+              Desenvolvimento de software, gestão de projetos de TI e a administração de sistemas e redes.
             </p>
           </div>
         </div>
