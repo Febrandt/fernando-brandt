@@ -1,8 +1,8 @@
 function InitialHero() {
     return <>
         <div className='flex flex-row items-center sm:h-[80vh] lg:h-[80vh] md:h-[80vh] h-[75vh] px-16 flex-wrap-reverse align-middle'>
-            <div className='flex-2/3 sm:mt-0 -mt-40'>
-                <h1 className='sm:text-7xl text-[12vw]/[12vw] line mb-2'>Fernando M. Brandt</h1>
+            <div className='flex-2/3 sm:mt-0 -mt-40 sm:text-left text-center'>
+                <h1 className='sm:text-7xl text-[12vw]/[12vw] line mb-4'>Fernando M. Brandt</h1>
                 <em className='text-2xl tracking-[0.09rem]'>Programador de Sistemas e Websites</em>
             </div>
             <div className='flex justify-center flex-1/3' >
