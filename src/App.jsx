@@ -40,14 +40,11 @@ function App() {
       </div>
       <div className='bg-light mx-10 sm:mx-20 p-10 rounded-lg shadow-lg mt-10 text-center'>
         <em className='text-2xl tracking-[0.09rem] text-center'>Serviços</em>
-        <p className='mt-1 text-justify'>
-          O que eu posso desevolver para você?
-        </p>
         <ul className='list-disc ml-5 mt-4 text-left'>
-          <li style={{ fontWeight: 600 }}>Sistemas de gestão sob medida (clientes, estoque, chamados, etc.)</li>
-          <li style={{ fontWeight: 600 }}>Sites responsivos e otimizados para Google</li>
-          <li style={{ fontWeight: 600 }}>Integração entre plataformas (pagamento, CRM, etc.)</li>
-          <li style={{ fontWeight: 600 }}>Painéis administrativos.</li>
+          <li style={{ fontWeight: 600, lineHeight: 1, marginBottom: 10 }}>Sistemas de gestão sob medida: clientes, estoque, chamados, etc.</li>
+          <li style={{ fontWeight: 600, lineHeight: 1, marginBottom: 10 }}>Sites responsivos e otimizados para Google</li>
+          <li style={{ fontWeight: 600, lineHeight: 1, marginBottom: 10 }}>Integração entre plataformas: pagamentos, notas fiscais, entre outros.</li>
+          <li style={{ fontWeight: 600, lineHeight: 1, marginBottom: 10 }}>Painéis administrativos.</li>
         </ul>
       </div>
       <footer className='bg-dark text-light p-5 shadow-lg mt-10 text-center'>
