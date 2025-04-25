@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Felipa&family=Linden+Hill:ital@0;1&family=RocknRoll+One&display=swap');
+@import "tailwindcss";
+
+* {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'RocknRoll One', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: semi-expanded;
+    @apply text-neutral-800;
+}
+
+a,
+b,
+i,
+strong,
+em,
+mark,
+small {
+    font-family: "Felipa", serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    @apply text-neutral-600;
+}
+
+p,
+li {
+    font-family: "Linden Hill", serif;
+    font-weight: 500;
+    font-style: normal;
+    @apply text-neutral-600;
+}
+
+.bg-secondary {
+    @apply bg-amber-100;
+}
+
+.bg-primary {
+    @apply text-neutral-800;
+}
+
+.bg-dark {
+    @apply bg-neutral-900;
+}
+
+.bg-light {
+    @apply bg-neutral-200;
+}
+
+.text-primary {
+    @apply text-neutral-800;
+
+}
+
+.text-secondary {
+    @apply text-amber-100;
+
+}
+
+.text-dark {
+    @apply text-neutral-900;
+
+}
+
+.text-light {
+    @apply text-neutral-200;
+
+}
